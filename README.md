@@ -41,7 +41,7 @@ volumes.
 
 This add-on is no longer available.
 
-It has been used quite a lot for unsupported porposes, causing many issues,
+It has been used quite a lot for unsupported purposes, causing many issues,
 support questions and other problems.
 
 If you run Home Assistant, please be aware that running additional containers
